@@ -34,7 +34,7 @@ Thank you all for your work!
 | [<img src="https://avatars0.githubusercontent.com/u/5329780?v=4" width="100px;"/><br /><sub><b>Bluesir9</b></sub>](https://github.com/Bluesir9) | [<img src="https://avatars1.githubusercontent.com/u/17095817?v=4" width="100px;"/><br /><sub><b>Jatin0312</b></sub>](https://github.com/Jatin0312) | [<img src="https://avatars3.githubusercontent.com/u/3415851?v=4" width="100px;"/><br /><sub><b>mashawan</b></sub>](https://github.com/mashawan) | [<img src="https://avatars3.githubusercontent.com/u/594179?v=4" width="100px;"/><br /><sub><b>ford-prefect</b></sub>](https://github.com/ford-prefect) | [<img src="https://avatars1.githubusercontent.com/u/21229885?v=4" width="100px;"/><br /><sub><b>seantnemann</b></sub>](https://github.com/seantnemann) |
 
 
-.. and [many more](https://github.com/commons-app/apps-android-commons/graphs/contributors).
+... and [many more](https://github.com/commons-app/apps-android-commons/graphs/contributors).
 
 ## License ##
 
